@@ -1,0 +1,3 @@
+[submodule "indra_submodule"]
+	path = indra_submodule
+	url = https://github.com/sorgerlab/indra/
